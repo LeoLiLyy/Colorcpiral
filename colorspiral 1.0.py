@@ -2,6 +2,7 @@
 import turtle
 import random
 import time
+# Notice: This is version 1.0
 
 
 def cspiral(sides=6, size=360, x=0, y=0):
